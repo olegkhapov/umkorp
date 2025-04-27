@@ -1,1 +1,1 @@
-# umkorp
+# umkorpprint("Добро пожаловать в проект umkorp!")
